@@ -1,0 +1,240 @@
+    1  y
+    2  python3 --version
+    3  pwd
+    4  ls
+    5  ls -Force
+    6  ls -a
+    7  1s
+    8  clear
+    9  pwd
+   10  ls
+   11  ls -a
+   12  ls -l
+   13  clear
+   14  NANO week02
+   15  nano week02
+   16  nano notes.md
+   17  ls
+   18  rm notes.md
+   19  ls
+   20  rm week02.save
+   21  ls
+   22  coding-cafe
+   23  ls
+   24  cd coding-cafe
+   25  cd week01
+   26  ls
+   27  cd week02
+   28  ls
+   29  lss
+   30  ls
+   31  '''bash
+   32  pwd
+   33  ls
+   34  ls -a
+   35  ls -l
+   36  '''
+   37  '''bash
+   38  pwd
+   39  '''
+   40  pwd
+   41  ls
+   42  ls -a
+   43  ls -l
+   44  coding-cafe
+   45  mkdir coding-cafe
+   46  ls
+   47  week01/
+   48  mv "week01}" week 01
+   49  ls
+   50  cd coding-cafe
+   51  ls
+   52  mkdir week 1
+   53  ls
+   54  cd week 1
+   55  touch notes.md
+   56  ls
+   57  notes.txt
+   58  touch notes.txt
+   59  ls
+   60  rmdir 1
+   61  ls
+   62  rmdir week notes.md notes.txt
+   63  rmdir notes.md
+   64  ls
+   65  rm notes.md
+   66  ls
+   67  rm notes.txt
+   68  ls
+   69  mkdir week01
+   70  ls
+   71  mkdir week02
+   72  ls
+   73  touch README.md
+   74  ls
+   75  mkdir week02/notes.md
+   76  ls
+   77  cd week02
+   78  ls
+   79  touch notes.md
+   80  ls
+   81  nano notes.md
+   82  ls
+   83  nano week02
+   84  ls
+   85  clear
+   86  ls
+   87  cd coding-cafe
+   88  rm week02
+   89  ls
+   90  cd
+   91  ls
+   92  cd coding-cafe
+   93  ls
+   94  cd week01
+   95  touch notes.md
+   96  ls
+   97  nano notes.md
+   98  pwd
+   99  nano notes.md
+  100  ls
+  101  ls -a
+  102  nano notes.md
+  103  ls -l
+  104  nano notes.md
+  105  cd
+  106  which python3
+  107  ls
+  108  cd coding-cafe
+  109  cd week01
+  110  cd notes.md
+  111  ls
+  112  nano notes.md
+  113  ls
+  114  cd ..
+  115  ls
+  116  cd week01
+  117  nano notes.md
+  118  cd 
+  119  history
+  120  result
+  121  history | grep nano
+  122  nano notes.md
+  123  cd coding-cafe
+  124  ls
+  125  cd week01
+  126  ls
+  127  nano notes.md
+  128  ls
+  129  cd coding-cafe
+  130  mv week01/notes.md week02/
+  131  mv notes.md week02/
+  132  ls
+  133  nano notes.md
+  134  cd week01
+  135  nano notes.md
+  136  rm notes.md
+  137  ls
+  138  rm notes.txt
+  139  ls
+  140  cd coding-cafe
+  141  cd ..
+  142  ls
+  143  cd week01
+  144  ls
+  145  cd ..
+  146  cd week02
+  147  ls
+  148  nano notes.md
+  149  rmdir notes.md
+  150  ls
+  151  touch notes.md
+  152  ls
+  153  nano notes.md
+  154  cd ..
+  155  cp README.md README-backup.md
+  156  ls
+  157  mv README-backup.md week01/
+  158  ls
+  159  cd week01
+  160  ls
+  161  mv README-backup.md old-readme.md
+  162  ls
+  163  nano notes.md
+  164  ls
+  165  cd ..
+  166  cd week02
+  167  nano notes.md
+  168  clear
+  169  cd ..
+  170  ls
+  171  cd week01
+  172  ls
+  173  rm old-readme.md
+  174  ls
+  175  rm notes.md
+  176  ls
+  177  cd ..
+  178  ls
+  179  cd week01
+  180  ls
+  181  cd ..
+  182  echo $PATH
+  183  which python3
+  184  which pip
+  185  which ls
+  186  pyton3
+  187  cd week02
+  188  nano notes.md
+  189  python3
+  190  ls
+  191  cd coding-cafe
+  192  ls
+  193  python3 -m venv .venv
+  194  python3 --version
+  195  pip --version
+  196  pip
+  197  sudo apt update && sudo apt install -y python3.14-venv
+  198  python3 -m venv .venv
+  199  ls
+  200  ls -a
+  201  clear
+  202  ls
+  203  cd week02
+  204  nano notes.md
+  205  ls
+  206  cd ..
+  207  source .venv/bin/activate
+  208  which python3
+  209  cd week02
+  210  nano notes.md
+  211  cd ..
+  212  pip list
+  213  pip install requests
+  214  pip list
+  215  cd week02
+  216  nano notes.md
+  217  clear
+  218  cd ..
+  219  deactivate
+  220  which python3
+  221  ls
+  222  deactivate
+  223  which python3
+  224  man ls
+  225  cd week02
+  226  nano notes.md
+  227  cd ..
+  228  man man
+  229  cd week02
+  230  nano notes.md
+  231  cd ..
+  232  cd coding
+  233  history
+  234  python3
+  235  cd week02
+  236  nano notes.md
+  237  clear
+  238  cd ..
+  239  history > week02/lab01-log.txt
+
