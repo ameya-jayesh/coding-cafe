@@ -1,0 +1,19 @@
+Answers 
+
+1.It applies the configuration globally to all Git repositories on your computer.
+without it, you would have to set your name and email separately for every new project.
+
+2.The hidden .git folder appeared, which contains the files that track your project's version history.
+
+3.Git offers to track thousands of files.
+ The unwritten files are someone else's installed dependencies and pre-compiled code inside the .venv/ and cache folders.
+
+4.The .venv/ folder and cache files disappeared from the untracked list because Git is now ignoring them.
+
+5.Yes, it should be committed so that anyone else who clones your project uses the exact same ignore rules.
+
+6.It moved from untracked files to staged changes, moving from the Working Directory into the Staging Area.
+
+7.Git printed the commit hash, branch name (main), your commit message, and a summary of how many files changed.
+
+8.It is the short commit hash, which acts as a unique ID to identify and reference that specific version of your code.
